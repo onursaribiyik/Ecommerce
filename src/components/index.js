@@ -1,0 +1,13 @@
+export { default as Breadcrums } from "./breadcrums/breadcrums";
+export { default as ProductDisplay } from "./product-display/product-display";
+export { default as RelatedProducts } from "./related-products/related-products";
+export { default as DescriptionBox } from "./description-box/description-box";
+export { default as CartItems } from "./cart-items/cart-items";
+export { default as Footer } from "./footer/footer";
+export { default as Navbar } from "./navbar/navbar";
+export { default as Hero } from "./hero/hero";
+export { default as Offers } from "./offers/offers";
+export { default as Popular } from "./popular/popular";
+export { default as NewsLetter } from "./news-letter/news-letter";
+export { default as NewCollections } from "./new-collections/new-collections";
+export { default as Item } from "./item/item";
